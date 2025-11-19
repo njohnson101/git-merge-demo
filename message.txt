@@ -1,1 +1,1 @@
-Favorite fruit: banana
+Favorite fruit: apple
